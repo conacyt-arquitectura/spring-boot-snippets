@@ -1,0 +1,20 @@
+{
+    "name": "spring-boot-snippets",
+    "displayName": "spring-boot-snippets",
+    "description": "common snippets for microservices architecture",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "java",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
